@@ -17,7 +17,13 @@ Les élèves travaillent en petits groupes et se répartissent les rôles de ma�
 
 ## Fichiers du projet
 
-Les fichiers PDF destinés aux élèves, les corrigés, les consignes et les documents modifiables sont disponibles dans ce dépôt.
+- Le déroulement de l'activité en version pdf et odt modifiable ("activitelesmotsdunumerique")
+
+- Les fichiers PDF destinés aux élèves ("crossword_les_mots_du_numerique_simple", "crossword_les_mots_du_numerique_complexe" et "consignes_les_mots_du_numerique")
+
+- Les corrigés ("crossword_les_mots_du_numerique_simple_correctif" et "crossword_les_mots_du_numerique_complexe_correctif")
+
+- Les consignes pour le TBI ("consignestbilesmotsdunumerique")
 
 ## Ressources
 
